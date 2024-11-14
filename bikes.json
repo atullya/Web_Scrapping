@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "model": "Hero Xpulse 200 4V",
+    "modelLink": "./bikeImage/image_4.jpg",
+    "engineCapacity": "200cc",
+    "ratePerDay": "Nrs.3500 ($35)",
+    "perMonth": "Negotiable",
+    "desc": "The Hero Xpulse 200 4V is an adventure bike with an oil-cooled 4-stroke 4-valve single cylinder OHC and a maximum power of 14.1 kW @ 8500 RPM. Hero Xpulse 200 4v for rent in Nepal at 35Usd per day for your Nepal Motorcycle trip."
+  },
+  {
+    "id": "2",
+    "model": "Royal Enfield classic",
+    "modelLink": "https://citymotorbike.com/bike/royal-enfield-350cc/",
+    "engineCapacity": "350cc",
+    "ratePerDay": "Nrs.3000 ($30)",
+    "perMonth": "Negotiable",
+    "desc": "Royal Enfield is a quite perfect bike for a Long comfortable ride."
+  },
+  {
+    "id": "3",
+    "model": "Royal Enfield Himalayan",
+    "modelLink": "https://citymotorbike.com/bike/royal-enfield-himalayan-rent-in-nepal/",
+    "engineCapacity": "411cc",
+    "ratePerDay": "Nrs.5500 ($55)",
+    "perMonth": "Negotiable",
+    "desc": "An Indian adventure touring motorcycle with a 411 cc engine produced by Royal Enfield. Himalayan is the perfect adventure bike for challenging terrain & off-road tours for Nepal trips.  "
+  },
+  {
+    "id": "3",
+    "model": "Royal Enfield Himalayan",
+    "modelLink": "https://citymotorbike.com/bike/royal-enfield-himalayan-452cc-rent-in-nepal/",
+    "engineCapacity": "452cc",
+    "ratePerDay": "Nrs.9000($90)",
+    "perMonth": "Negotiable",
+    "desc": "Discover the all-new Himalayan 450cc—a motorcycle crafted for adventure with a pure motorcycling spirit. Built for versatility, it’s perfect for exploring Nepal’s diverse landscapes. Whether tackling rugged trails or scenic routes, the Himalayan 450cc is your ideal companion. Now available for rent and tours in Nepal."
+  },
+  {
+    "id": "4",
+    "model": "Yamaha FZS",
+    "modelLink": "https://citymotorbike.com/bike/yamaha-fzs-150cc/",
+    "engineCapacity": "150cc",
+    "ratePerDay": "Nrs.1800 ($18)",
+    "perMonth": "Negotiable",
+    "desc": "A perfect bike for city tours as well as any terrain of Nepal with a 150cc light power bike with good mileage."
+  },
+  {
+    "id": "5",
+    "model": "Honda Dio Scooter",
+    "modelLink": "https://citymotorbike.com/bike/scooter-rent-in-nepal/",
+    "engineCapacity": "110cc",
+    "ratePerDay": "Nrs.1000 ($8)",
+    "perMonth": "Negotiable",
+    "desc": "Honda Dio Scooter is a suitable bike for a City Tour ride. Scooter rent in Nepal is available at Affordable prices at USD  9 per day."
+  },
+  {
+    "id": "6",
+    "model": "Hero Xpulse 200cc",
+    "modelLink": "https://citymotorbike.com/bike/hero-xpulse-200-rent-in-nepal/",
+    "engineCapacity": "200cc",
+    "ratePerDay": "Nrs.3000 ($30)",
+    "perMonth": "Negotiable",
+    "desc": "Get ready to hand on our brand new Hero Xpulse 200cc rent in Nepal for your trip. Hero Xpulse is a cross-roader bike, in which you can travel through muddy terrains and dirt roads of Nepal"
+  },
+
+  {
+    "id": "1",
+    "model": "Honda CRF",
+    "modelLink": "https://citymotorbike.com/bike/honda-crf-250cc-rent-in-nepal/",
+    "engineCapacity": "250cc",
+    "ratePerDay": "Nrs. 8000 ($80)",
+    "perMonth": "Negotiable",
+    "desc": "An adventure-style dual-purpose offroad motorcycle that comes with a powerful 250cc engine is a perfect dirtbike for an offroad motorcycle trip to Nepal. "
+  },
+  {
+    "id": "2",
+    "model": "Honda XR",
+    "modelLink": "https://citymotorbike.com/bike/honda-xr-190cc-rent-in-nepal/",
+    "engineCapacity": "190cc",
+    "ratePerDay": "Nrs. 4500 ($45)",
+    "perMonth": "Negotiable",
+    "desc": "For Every Trail. For Everyone. A perfect bike for an off-road trip to Nepal."
+  },
+  {
+    "id": "1",
+    "model": "Bajaj Pulsar",
+    "modelLink": "https://citymotorbike.com/bike/bajaj-pulsar-220cc/",
+    "engineCapacity": "220cc",
+    "ratePerDay": "Nrs. 2000 ($ 20)",
+    "perMonth": "Negotiable",
+    "desc": "Easy to ride, comfortable bike for two people with a powerful engine of 220cc."
+  },
+  {
+    "id": "3",
+    "model": "Bajaj Pulsar",
+    "modelLink": "https://citymotorbike.com/bike/pulsar-150cc/",
+    "engineCapacity": "150cc",
+    "ratePerDay": "Nrs.1500 ($15)",
+    "perMonth": "Negotiable",
+    "desc": "A light bike easy to travel everywhere in Nepal. Recommend for short trips as well as city ride."
+  }
+]
